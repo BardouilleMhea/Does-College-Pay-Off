@@ -36,6 +36,12 @@ Headers for grad-students.csv are shown below:
 | Non_college_jobs    | Number with job not requiring a college degree|
 | Low_wage_jobs    | Number in low-wage service jobs|
 
+Using visualizations, I will explore interesting questions, such as:
+* What college degrees have the highest and lowest average salary? 
+* What majors have the highest and lowest employment rate?
+* Are men- or women-dominated majors the most lucrative?
+* Does one's gender affect salary in the same discipline? 
+* What majors have most full-time year round jobs?
 
 
 
