@@ -40,7 +40,7 @@ Using visualizations, I will explore interesting questions, such as:
 * [What college degrees have the highest and lowest average salary?](https://github.com/BardouilleMhea/Does-College-Pay-Off-/blob/main/lowest-and-higest-median-salary.ipynb) 
 * What majors have the highest and lowest employment rate?
 * Are men- or women-dominated majors the most lucrative?
-* Does one's gender affect salary in the same discipline? 
+* [Does one's gender affect salary in the same discipline?](https://github.com/BardouilleMhea/Does-College-Pay-Off-/blob/main/gender-vs-salary.ipynb)
 * [What majors have most full-time year round jobs?](https://github.com/BardouilleMhea/Does-College-Pay-Off-/blob/main/full-time-year-round-jobs.ipynb)
 
 
