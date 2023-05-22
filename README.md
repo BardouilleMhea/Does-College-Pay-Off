@@ -1,4 +1,4 @@
-# Does-College-Pay-Off-
+# Does College Pay Off?- A Visualization of Earnings Based on College Majors and Gender
 
 "The wage gap between young workers with and without bachelor’s degrees has never been larger. On average, recent college graduates earn $52,000 per year, while young workers with high school diplomas but no higher education credential earn only $30,000 per year. The difference in wages between college and high school graduates – often referred to as the college wage premium – has increased since the start of the COVID-19 pandemic. "  (Source: [Geary, 2022](https://www.newamerica.org/education-policy/edcentral/college-pays-off/))
 
